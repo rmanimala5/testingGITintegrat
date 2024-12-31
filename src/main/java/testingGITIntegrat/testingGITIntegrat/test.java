@@ -1,5 +1,5 @@
 package testingGITIntegrat.testingGITIntegrat;
 
 public class test {
-int a;
+int a=10;
 }
